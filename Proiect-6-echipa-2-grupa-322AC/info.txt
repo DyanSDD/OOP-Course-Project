@@ -1,0 +1,24 @@
+The program has to be exclusively used on the desktop of this device.
+
+EXEC -> C:\Users\DEVICE_USER\Desktop\Proiect-6-echipa-2-grupa-322AC\Identificarea si modelarea unui proces din industria alimentara\release\ProiectPOO.exe
+
+Theme: Identifying and modeling of a process in the food industry.
+Objectives: - Analysis / filtering of experimental data
+	    - Modeling of experimental data. Identification of model parameters
+	    - Evaluation of error modeling 
+	    - 3D graphics representation
+
+Front- End: - Geanaliu Andy
+	    - Dumitrache Adrian
+	    - David Calin
+
+Back - End: - Ciausu Alexandru
+	    - David Calin
+            - Geanaliu Andy
+
+Research Team: - Toba Bogdan
+	       - Filoteanu Ilinca
+	       - Stanciuc Vlad
+               - Ciausu Alexandru
+
+Team coordinator: Dumitrache Adrian
